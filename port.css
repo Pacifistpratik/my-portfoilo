@@ -74,12 +74,6 @@
         box-shadow: 2px 2px 2px #797569;
         
     }
-    @keyframes slide {
-        0%   { transform: translateX(0); }
-        50%  { transform: translateX(10px); }
-        100% { transform: translateX(0); }
-        }
-        .slide:hover { animation: slide 0.8s ease-in-out ; }
     .b1{
         background-color: #CE2626;
         color: #E8DBB3;
