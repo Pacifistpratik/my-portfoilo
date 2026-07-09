@@ -58,6 +58,7 @@
         height: 240px;
         width: 400px;
         padding: 7%;
+        object-fit:fill;
        }
     .s2{
         background-color: #E8DBB3;
